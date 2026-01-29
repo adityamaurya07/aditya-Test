@@ -1,3 +1,6 @@
+Clone the repository
+git clone https://github.com/adityamaurya07/aditya-Test.git
+
 npm install
 npm run dev
 
